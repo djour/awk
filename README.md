@@ -1,1 +1,1 @@
-# awk
+# awk## Practices with awk### Datanetstat.txt/etc/passwdscore.txt### 1. basic operations in bash shellawk_command.sh### 2. akw scriptingcal.awk### 3. advanced applications打印99乘法表
